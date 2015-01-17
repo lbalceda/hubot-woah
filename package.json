@@ -1,7 +1,7 @@
 {
   "name": "hubot-woah",
   "description": "Hubot script responds with Woah thats a low price",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Luis Balceda <lbalceda@gmail.com>",
   "license": "MIT",
 
