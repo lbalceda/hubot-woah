@@ -1,0 +1,38 @@
+{
+  "name": "hubot-woah",
+  "description": "Hubot script responds with Woah thats a low price",
+  "version": "1.0.0",
+  "author": "Luis Balceda <lbalceda@gmail.com>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:lbalceda/hubot-woah.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/lbalceda/hubot-woah/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  },
+
+  "main": "index.coffee",
+
+  "scripts": {
+    "test": "script/test"
+  }
+}
