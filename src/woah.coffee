@@ -15,4 +15,4 @@
 
 module.exports = (robot) ->
   robot.respond /wo+a+h+|wh+o+a+\b/i, (message) ->
-    message.send "https://www.youtube.com/watch?v=rJnm7janvUA"
+    message.send "https://youtube.com/v/g7Xz6-cf3nc"

@@ -10,8 +10,10 @@ add `["hubot-woah"]` to your `external-scripts.json`.
 
 #### Examples
 
-`woah`
-`whoa`
-`woaaaaah`
-`whooaaaa`
- -> "https://www.youtube.com/watch?v=rJnm7janvUA"
+`woah`  -> http://youtube.com/v/g7Xz6-cf3nc
+
+`whoa`  -> http://youtube.com/v/g7Xz6-cf3nc
+
+`woaaaaah`  -> http://youtube.com/v/g7Xz6-cf3nc
+
+`whooaaaa`  -> http://youtube.com/v/g7Xz6-cf3nc
